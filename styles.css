@@ -1,0 +1,31 @@
+
+
+h1{
+    
+    color:palevioletred;
+    text-align: center;
+    background-color: rgb(191, 240, 15);
+
+}
+
+
+
+
+.blocked-style{
+    border: 2px solid rgb(155, 211, 197);
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(160, 163, 108);
+
+}
+
+.buttonstyle{
+    text-align: right;
+}
+
+.miguu{
+    background-color: rgb(151, 133, 133);
+}
+.lastbon{
+    text-align: center;
+}
