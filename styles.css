@@ -15,7 +15,7 @@ h1{
     border: 2px solid rgb(155, 211, 197);
     display: flex;
     flex-wrap: wrap;
-    background-color: rgb(160, 163, 108);
+    background-color: white;
 
 }
 
@@ -28,4 +28,9 @@ h1{
 }
 .lastbon{
     text-align: center;
+}
+ 
+.headband{
+    display: flex;
+    display: block;
 }
