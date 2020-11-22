@@ -14,17 +14,21 @@ h1{
 .blocked-style{
     border: 2px solid rgb(155, 211, 197);
     display: flex;
+    
     flex-wrap: wrap;
     background-color: white;
+    margin: 3%;
+    
 
 }
+
 
 .buttonstyle{
     text-align: right;
 }
 
 .miguu{
-    background-color: rgb(151, 133, 133);
+    background-color: rgb(57, 145, 39);
 }
 .lastbon{
     text-align: center;
@@ -33,4 +37,20 @@ h1{
 .headband{
     display: flex;
     display: block;
+}
+
+h4{
+ color:magenta   
+
+}
+
+.splash{
+    margin: 20%;
+    border: 3px;
+    border-color: blue;
+background-color:pink ;
+}
+
+h3{
+    color:blue;
 }
